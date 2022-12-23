@@ -1,11 +1,10 @@
-package ma.enset.annotation;
+package ma.enset.Entities;
 
-import ma.enset.Entity;
-
+import java.util.ArrayList;
 import java.util.List;
 
 public class Annotation extends Entity {
-    private List<Property> properties;
+    private List<String> properties = new ArrayList<>();
 
     public Annotation(String name) {
         super(name);

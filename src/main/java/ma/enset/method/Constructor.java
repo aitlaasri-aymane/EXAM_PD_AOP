@@ -1,4 +1,6 @@
-package ma.enset.Class;
+package ma.enset.method;
+
+import ma.enset.Entities.Class;
 
 public class Constructor {
     Class aClass;

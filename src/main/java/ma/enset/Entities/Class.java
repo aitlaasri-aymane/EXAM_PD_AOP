@@ -1,6 +1,6 @@
-package ma.enset.Class;
+package ma.enset.Entities;
 
-import ma.enset.Entity;
+import ma.enset.method.Constructor;
 import ma.enset.method.Method;
 import ma.enset.enums.Visibility;
 

@@ -1,4 +1,4 @@
-package ma.enset.Class;
+package ma.enset.Entities;
 
 import ma.enset.enums.Visibility;
 

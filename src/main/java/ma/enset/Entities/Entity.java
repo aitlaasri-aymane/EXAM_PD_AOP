@@ -1,6 +1,6 @@
-package ma.enset;
+package ma.enset.Entities;
 
-public class Entity {
+public abstract class Entity {
     private String name;
 
     public Entity(String name) {
